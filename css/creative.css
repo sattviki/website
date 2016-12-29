@@ -64,6 +64,10 @@ p {
     color: rgba(255,255,255,.7);
 }
 
+.text-duo {
+    color: #f05f40;
+}
+
 section {
     padding: 100px 0;
 }
